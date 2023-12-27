@@ -13,7 +13,7 @@
 https://github.com/ianK0909/ios-juice-maker/assets/133867430/2af08f05-aef6-4f53-a208-08665c35a280
 
 ## 🏆 PR 모음
-- <td><a href="https://github.com/ryan-son](https://github.com/tasty-code/ios-juice-maker/pull/116">STEP3</a></td>
+- <td><a href="https://github.com/tasty-code/ios-juice-maker/pull/116">STEP3</a></td>
 - <td><a href="https://github.com/tasty-code/ios-juice-maker/pull/100">STEP2</a></td>
 - <td><a href="https://github.com/tasty-code/ios-juice-maker/pull/83">STEP1</a></td>
 
